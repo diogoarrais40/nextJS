@@ -1,0 +1,27 @@
+{
+  "name": "nextJS",
+  "version": "1.0.0",
+  "description": "Small project created with next js (react framework for production)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogoarrais40/nextJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogoarrais40/nextJS/issues"
+  },
+  "homepage": "https://github.com/diogoarrais40/nextJS#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
